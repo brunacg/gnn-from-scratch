@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository for teaching or research, please cite it as software."
+title: "GNN from Scratch"
+type: software
+authors:
+  - family-names: "Guedes"
+    given-names: "Bruna Campos"
+    orcid: "https://orcid.org/0000-0002-4384-0056"
+repository-code: "https://github.com/brunacg/gnn-from-scratch"
+url: "https://github.com/brunacg/gnn-from-scratch"
+version: 0.1.0
+license: MIT

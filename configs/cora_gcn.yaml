@@ -1,0 +1,12 @@
+model: gcn
+hidden_dim: 64
+n_classes: 7
+dropout: 0.5
+
+epochs: 200
+lr: 0.01
+weight_decay: 0.0005
+patience: 20
+
+log_every: 20
+seed: 42

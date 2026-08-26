@@ -1,0 +1,17 @@
+model: gat
+hidden_dim: 64
+n_classes: 7
+dropout: 0.6
+negative_slope: 0.2
+
+n_heads: 8         # paper config; safe with the sparse-attention rewrite
+n_heads_out: 1
+
+epochs: 200
+lr: 0.005
+weight_decay: 0.0005
+patience: 20
+grad_clip: 5.0
+
+log_every: 20
+seed: 42
