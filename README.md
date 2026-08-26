@@ -1,6 +1,6 @@
 # GNN from Scratch
 
-[![Tests](https://github.com/brunacg/gnn-from-scratch/actions/workflows/tests.yml/badge.svg)](https://github.com/brunacg/gnn-from-scratch/actions/workflows/tests.yml)
+[![tests](https://github.com/brunacg/gnn-from-scratch/actions/workflows/tests.yml/badge.svg)](https://github.com/brunacg/gnn-from-scratch/actions/workflows/tests.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
