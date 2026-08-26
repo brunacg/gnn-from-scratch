@@ -23,7 +23,7 @@ checkpoints/
 *.log
 
 # Cora cache when using a repo-local data directory
-data/
+/data/
 
 # Editors / OS
 .vscode/
