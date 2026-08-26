@@ -32,9 +32,12 @@ classifiers = [
   "Topic :: Scientific/Engineering :: Artificial Intelligence"
 ]
 dependencies = [
-  "numpy>=1.23",
-  "scipy>=1.9",
-  "matplotlib>=3.6"
+  "numpy>=1.23,<2.3; python_version < '3.11'",
+  "numpy>=1.23; python_version >= '3.11'",
+  "scipy>=1.9,<1.16; python_version < '3.11'",
+  "scipy>=1.9; python_version >= '3.11'",
+  "matplotlib>=3.6,<3.11; python_version < '3.11'",
+  "matplotlib>=3.6; python_version >= '3.11'"
 ]
 
 [project.optional-dependencies]
